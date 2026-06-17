@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AliasKind","ProviderCategory","RefStrength","ScrubAction"],"fn":["find_all_references","plan_delete"],"struct":["ImpactReport","OwnedArtifact","RefSite"]};
